@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSParser-Ver.0.0", "FSParser-Ver.0.0\FSParser-Ver.0.0.fsproj", "{C9E2B1D4-5D54-45F3-A66B-024906033668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E2B1D4-5D54-45F3-A66B-024906033668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E2B1D4-5D54-45F3-A66B-024906033668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E2B1D4-5D54-45F3-A66B-024906033668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E2B1D4-5D54-45F3-A66B-024906033668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D65B87D8-EBCA-4148-84C2-26B5C226E422}
+	EndGlobalSection
+EndGlobal
